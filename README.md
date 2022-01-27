@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NBKai
-- 👀 I’m interested in Undertale, Deltarune.
-- 🌱 I’m currently learning Linux.
-- 💞️ I’m looking to collaborate on Undertale.
+- 👋 Hi, I’m @NonBinaryKai
+- 👀 I’m interested in website coding.
+- 🌱 I’m currently learning html.
+- 💞️ I’m looking to collaborate on websites.
 - 📫 How to reach me noahsplitbanana@gmail.com
 
 <!---
